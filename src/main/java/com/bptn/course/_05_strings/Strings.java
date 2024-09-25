@@ -36,6 +36,7 @@ public class Strings {
 
 		}
 
+		
 		System.out.println("The number of vowels are: " + vowel);
 		System.out.println("The number of constants are: " + constant);
 
