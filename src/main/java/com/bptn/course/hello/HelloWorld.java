@@ -11,10 +11,7 @@ public class HelloWorld {
 	        System.out.println("At odd indexes, the elements are: ");
 	// FREEZE CODE END
 
-	        // Add your code here
-	        
-	        
-	        
+	        // Add your code here    
 	        
 
 	}

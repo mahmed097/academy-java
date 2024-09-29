@@ -81,7 +81,7 @@ public class Calculator {
 					ifExitIsNotPressed = false;
 					break;
 				} else {
-					System.out.println("Choose another calculation: ");// If pressed 1, ask user for another calculaton
+					System.out.println("Choose another calculation: ");// If pressed 1, ask user for another calculation
 					choice = scan.nextInt();
 					break;
 				}
@@ -109,7 +109,7 @@ public class Calculator {
 					ifExitIsNotPressed = false;
 					break;
 				} else {
-					System.out.println("Choose another calculation: "); // If pressed 1, ask user for another calculaton
+					System.out.println("Choose another calculation: "); // If pressed 1, ask user for another calculation
 					choice = scan.nextInt();
 					break;
 				}
@@ -137,7 +137,7 @@ public class Calculator {
 					ifExitIsNotPressed = false;
 					break;
 				} else {
-					System.out.println("Choose another calculation: "); // If pressed 1, ask user for another calculaton
+					System.out.println("Choose another calculation: "); // If pressed 1, ask user for another calculation
 					choice = scan.nextInt();
 					break;
 				}
@@ -158,7 +158,7 @@ public class Calculator {
 										// break out of the do-while loop and exit program
 					ifExitIsNotPressed = false;
 					break;
-				} else { // If pressed 1, ask user for another calculaton
+				} else { // If pressed 1, ask user for another calculation
 					System.out.println("Choose another calculation: ");
 					choice = scan.nextInt();
 					break;
@@ -181,7 +181,7 @@ public class Calculator {
 										// break out of the do-while loop and exit program
 					ifExitIsNotPressed = false;
 					break;
-				} else { // If pressed 1, ask user for another calculaton
+				} else { // If pressed 1, ask user for another calculation
 					System.out.println("Choose another calculation: ");
 					choice = scan.nextInt();
 					break;
@@ -205,7 +205,7 @@ public class Calculator {
 										// break out of the do-while loop and exit program
 					ifExitIsNotPressed = false;
 					break;
-				} else { // If pressed 1, ask user for another calculaton
+				} else { // If pressed 1, ask user for another calculation
 					System.out.println("Choose another calculation: ");
 					choice = scan.nextInt();
 					break;
@@ -221,7 +221,7 @@ public class Calculator {
 										// break out of the do-while loop and exit program
 					ifExitIsNotPressed = false;
 					break;
-				} else {// If pressed 1, ask user for another calculaton
+				} else {// If pressed 1, ask user for another calculation
 					System.out.println("Choose another calculation: ");
 					choice = scan.nextInt();
 					break;
