@@ -1,4 +1,4 @@
-package com.bptn.course._07_this_keyword_;
+package com.bptn.course._07_this_keyword;
 
 class Circle {
     private double radius;
